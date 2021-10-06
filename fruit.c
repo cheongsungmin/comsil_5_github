@@ -2,6 +2,6 @@
 
 int fruit(void)
 {
-	printf("apple\n");
+	printf("nice apple!\n");
 	return 0;
 }
